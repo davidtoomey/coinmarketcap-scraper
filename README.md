@@ -1,18 +1,24 @@
 # coinmarketcap-scraper
-ruby script to scrape coinmarketcap
 
-scrapes name, price, and 24hr % change, 
-then saves the output to data.txt.
+scrapes name, price, and 24hr % change for the top 100 coins on coinmarketcap.
+writes output to data.txt every 5 seconds.
 
-data.txt updates every 5 seconds
-
-
-
-clone repository
-
+## Getting Started
+```
+git clone https://github.com/davidtoomey/coinmarketcap-scraper.git
+```
+```
 cd coinmarketcap-scraper
-
+```
+```
 bundle install
+```
+```
+ruby coinScraper.rb
+```
 
-ruby coinScraper.py
+
+new data should be written to data.txt every 5 seconds
+
+
 
