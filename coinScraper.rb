@@ -14,9 +14,9 @@ loop do |updat|
   data = rows.map do |row|
     [row.at_css("td:nth-child(2)").text, row.at_css("td:nth-child(100)")] + [row.at_css("td:nth-child(4)").text, row.at_css("td:nth-child(100)")] + [row.at_css("td:nth-child(7)").text, row.at_css("td:nth-child(100)")]
   end
-  sleep 5
   open('data.txt', 'w') do |f|
     f.puts data
   end
   puts Time.now
+  sleep 5
 end
