@@ -2,8 +2,6 @@ require 'bundler/setup'
 
 require 'pry-rails'
 
-require 'watir'
-
 require 'nokogiri'
 
 require 'open-uri'
@@ -20,5 +18,5 @@ loop do |updat|
   open('data.txt', 'w') do |f|
     f.puts data
   end
-  puts "Updated."
+  puts Time.now
 end
