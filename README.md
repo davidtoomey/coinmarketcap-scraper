@@ -13,12 +13,25 @@ cd coinmarketcap-scraper
 ```
 bundle install
 ```
+## Get top 100 coins
 ```
 ruby coinScraper.rb
 ```
+new data should be written to data.txt every 5 seconds,
+and a timestamp of the last updated time will print
+in the console
 
+## Biggest % Gainers/Losers in the last 24h
 
-new data should be written to data.txt every 5 seconds
+biggest gainers 24h // writes data to gainersData.txt every 5 seconds
+```
+ruby gainersScraper.rb
+```
+biggest losers 24h // writes data to losersData.txt every 5 seconds
+```
+ruby losersScraper.rb
+```
+
 
 
 
