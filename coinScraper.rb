@@ -1,5 +1,7 @@
 require 'bundler/setup'
 
+require 'rails'
+
 require 'pry-rails'
 
 require 'nokogiri'
@@ -12,7 +14,7 @@ loop do |updat|
   rows = coinsTable.css("tr")
   rows = rows.select { |row| row.css("th").empty? }
   data = rows.map do |row|
-    [row.at_css("td:nth-child(2)").text, row.at_css("td:nth-child(100)")] + [row.at_css("td:nth-child(4)").text, row.at_css("td:nth-child(100)")] + [row.at_css("td:nth-child(7)").text, row.at_css("td:nth-child(100)")]
+    [row.at_css("td:nth-child(2)").text + row.at_css("td:nth-child(4)").text.gsub(/\s+/, "")]
   end
   open('data.txt', 'w') do |f|
     f.puts data
