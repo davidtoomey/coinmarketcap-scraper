@@ -2,499 +2,601 @@
 
 BTC
 Bitcoin
-$8165.23
+$8151.82
+2.80%
 
 
 ETH
 Ethereum
-$524.09
+$523.89
+3.71%
 
 
 XRP
 Ripple
-$0.708983
+$0.714466
+8.07%
 
 
 BCH
 Bitcoin Cash
-$890.46
+$886.08
+16.34%
 
 
 LTC
 Litecoin
-$139.58
+$139.41
+4.01%
 
 
 EOS
 EOS
-$8.97
-
-
-ADA
-Cardano
-$0.263654
+$9.04
+5.38%
 
 
 XLM
 Stellar
-$0.356783
+$0.372768
+21.81%
+
+
+ADA
+Cardano
+$0.265558
+7.12%
 
 
 NEO
 NEO
-$72.43
+$72.32
+9.19%
 
 
 MIOTA
 IOTA
-$1.68
+$1.67
+6.34%
 
 
 XMR
 Monero
-$228.16
+$227.58
+15.24%
+
 
 
 XEM
 NEM
-$0.371964
+$0.382444
+10.19%
 
 
 DASH
 Dash
-$416.47
+$414.45
+13.64%
 
 
 TRX
 TRON
-$0.047251
+$0.047182
+11.71%
 
 
 USDT
 Tether
-$0.999228
+$0.998036
+-0.02%
 
 
 VEN
 VeChain
 $3.59
+8.38%
 
 
 ETC
 Ethereum Classic
-$17.62
+$17.70
+9.42%
 
 
 QTUM
 Qtum
-$17.52
+$17.63
+7.20%
 
 
 OMG
 OmiseGO
-$15.01
+$14.97
+3.80%
 
 
 BNB
 Binance Coin
-$12.22
+$12.16
+2.67%
 
 
 ICX
 ICON
-$3.20
+$3.24
+15.51%
 
 
 LSK
 Lisk
-$11.31
+$11.41
+8.59%
 
 
 ONT
 Ontology
-$4.26
+$4.25
+4.12%
 
 
 XVG
 Verge
-$0.066009
+$0.065904
+-10.40%
 
 
 BTG
 Bitcoin Gold
-$55.41
+$55.54
+8.16%
 
 
 BTM
 Bytom
-$0.940369
+$0.937535
+9.11%
 
 
 ZEC
 Zcash
-$247.41
+$246.53
+10.57%
 
 
 PPT
 Populous
-$23.62
+$23.75
+2.02%
 
 
 NANO
 Nano
-$6.34
+$6.31
+5.74%
 
 
 BCN
 Bytecoin
-$0.004458
+$0.004459
+9.75%
 
 
 STEEM
 Steem
-$2.99
+$3.09
+10.38%
 
 
 SC
 Siacoin
-$0.019381
+$0.019631
+9.79%
 
 
 WAN
 Wanchain
-$5.99
+$5.98
+11.03%
 
 
 DOGE
 Dogecoin
-$0.005434
+$0.005505
+16.27%
 
 
 BTS
 BitShares
-$0.227495
-
-
-BTCP
-Bitcoin Private
-$27.31
+$0.225594
+6.39%
 
 
 STRAT
 Stratis
-$5.62
+$5.70
+13.21%
+
+
+BTCP
+Bitcoin Private
+$27.15
+12.36%
 
 
 WAVES
 Waves
-$4.99
+$5.03
+6.41%
 
 
 DGD
 DigixDAO
-$242.74
+$244.43
+3.59%
 
 
 ZRX
 0x
-$0.922996
+$0.919990
+9.60%
 
 
 MKR
 Maker
-$775.66
+$775.30
+2.96%
 
 
 ZIL
 Zilliqa
-$0.065802
+$0.065163
+1.08%
 
 
 SNT
 Status
-$0.131477
+$0.133676
+8.89%
+
+ 
+REP
+Augur
+$40.52
+38.98%
 
 
 DCR
 Decred
-$61.95
-
-
-REP
-Augur
-$39.42
+$61.80
+1.64%
 
 
 AE
 Aeternity
 $1.86
+7.15%
 
 
 BCD
 Bitcoin Diamond
-$2.82
+$2.81
+1.65%
 
 
 RHOC
 RChain
 $1.18
+5.40%
 
 
 KMD
 Komodo
-$3.99
+$3.86
+10.39%
 
 
 AION
 Aion
-$3.10
+$3.13
+5.97%
 
 
 LRC
 Loopring
-$0.675355
-
-
-WTC
-Waltonchain
-$11.83
+$0.675831
+6.60%
 
 
 GNT
 Golem
-$0.440958
+$0.444541
+5.27%
 
 
 ARDR
 Ardor
-$0.360867
+$0.370515
+8.73%
+
+
+WTC
+Waltonchain
+$11.82
+7.62%
+
 
 
 BAT
 Basic Attenti...
-$0.356801
+$0.356554
+29.32%
 
 
 DGB
 DigiByte
-$0.033884
+$0.033149
+12.81%
 
 
 MITH
 Mithril
 $1.04
+40.66%
 
 
 IOST
 IOStoken
-$0.037069
-
-
-HSR
-Hshare
-$7.07
+$0.036919
+6.19%
 
 
 ARK
 Ark
 $2.96
+13.32%
 
 
-DRGN
-Dragonchain
-$1.19
-
-
-KCS
-KuCoin Shares
-$3.09
-
-
-PIVX
-PIVX
-$4.98
+HSR
+Hshare
+$7.03
+6.31%
 
 
 ELF
 aelf
-$1.10
+$1.15
+15.06%
+
+
+DRGN
+Dragonchain
+$1.20
+21.52%
+
+
+KCS
+KuCoin Shares
+$3.10
+1.97%
+
+
+PIVX
+PIVX
+$4.96
+8.29%
 
 
 SUB
 Substratum
-$0.675550
-
-
-CENNZ
-Centrality
-$0.386047
+$0.681961
+4.30%
 
 
 CNX
 Cryptonex
-$5.67
+$5.68
+2.96%
+
+
+CENNZ
+Centrality
+$0.383469
+-2.67%
+
+
+NPXS
+Pundi X
+$0.004780
+75.84%
 
 
 FCT
 Factom
 $27.52
-
-
-NPXS
-Pundi X
-$0.004641
-
-
-QASH
-QASH
-$0.651085
-
-
-VERI
-Veritaseum
-$109.74
-
-
-SYS
-Syscoin
-$0.419365
-
-
-MONA
-MonaCoin
-$3.77
-
-
-GAS
-Gas
-$21.53
+5.18%
 
 
 RDD
 ReddCoin
-$0.007421
+$0.008257
+40.86%
+
+
+QASH
+QASH
+$0.651340
+4.04%
+
+
+VERI
+Veritaseum
+$110.24
+6.44%
+
+
+SYS
+Syscoin
+$0.420179
+10.21%
+
+
+GAS
+Gas
+$21.82
+11.72%
+
+
+MONA
+MonaCoin
+$3.74
+6.65%
 
 
 WAX
 WAX
-$0.335460
-
-
-FUN
-FunFair
-$0.043319
+$0.348435
+22.02%
 
 
 KNC
 Kyber Network
-$1.52
+$1.53
+10.08%
 
 
-NXT
-Nxt
-$0.200976
+FUN
+FunFair
+$0.043305
+8.91%
 
 
 ETHOS
 Ethos
-$2.62
+$2.61
+5.95%
 
 
 SMART
 SmartCash
-$0.210714
+$0.222152
+39.17%
+
+
+NXT
+Nxt
+$0.198108
+7.08%
 
 
 ELA
 Elastos
 $37.15
+2.37%
 
 
 NAS
 Nebulas
 $5.22
+4.74%
 
 
 SALT
 SALT
-$3.15
+$3.14
+13.25%
 
 
 GXS
 GXChain
-$2.99
-
-
-XIN
-Mixin
-$416.69
-
-
-XZC
-ZCoin
-$37.52
+$3.00
+4.49%
 
 
 GBYTE
 Byteball Bytes
-$264.70
+$269.13
+4.38%
 
 
 POWR
 Power Ledger
-$0.465833
+$0.473911
+9.33%
 
 
-DCN
-Dentacoin
-$0.000519
+XIN
+Mixin
+$413.61
+9.05%
+
+
+XZC
+ZCoin
+$37.45
+14.27%
 
 
 MAID
 MaidSafeCoin
-$0.361610
+$0.364144
+6.04%
+
+
+DCN
+Dentacoin
+$0.000505
+-4.03%
 
 
 R
 Revain
-$0.884210
+$0.884322
+1.48%
 
 
 NCASH
 Nucleus Vision
-$0.039742
+$0.039576
+-8.97%
 
 
 STORM
 Storm
-$0.038974
+$0.039322
+9.55%
 
 
 LINK
 ChainLink
-$0.446584
+$0.447854
+6.41%
 
 
 ENG
 Enigma
-$2.06
-
-
-EMC
-Emercoin
-$3.70
+$2.07
+12.78%
 
 
 ETN
 Electroneum
-$0.022669
+$0.022920
+5.35%
+
+
+EMC
+Emercoin
+$3.61
+25.86%
 
 
 BNT
 Bancor
 $3.25
+4.83%
 
 
 REQ
 Request Network
-$0.219109
+$0.219176
+7.72%
