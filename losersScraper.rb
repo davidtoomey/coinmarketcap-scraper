@@ -3,6 +3,8 @@
 
 require 'bundler/setup'
 
+require 'rails'
+
 require 'pry-rails'
 
 require 'nokogiri'
@@ -15,7 +17,7 @@ loop do |updat|
   rows = coinsTable.css("tr")
   rows = rows.select { |row| row.css("th").empty? }
   data = rows.map do |row|
-    [row.at_css("td:nth-child(1)").text ] + [ row.at_css("td:nth-child(2)").text ] + [row.at_css("td:nth-child(5)").text ] + [row.at_css("td:nth-child(6)").text ]
+    [row.at_css("td:nth-child(1)").text ] + [row.at_css("td:nth-child(2)").text.gsub(/\s+/, "") ] + [row.at_css("td:nth-child(5)").text.gsub(/\s+/, "") ] + [row.at_css("td:nth-child(6)").text ]
   end
   open('losersData.txt', 'w') do |f|
     f.puts data

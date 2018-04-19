@@ -2,1001 +2,499 @@
 
 BTC
 Bitcoin
-
-
-$8002.46
-
--0.97%
-
+$8165.23
 
 
 ETH
 Ethereum
-
-
-$500.46
-
--1.98%
-
+$524.09
 
 
 XRP
 Ripple
-
-
-$0.629133
-
--7.40%
-
+$0.708983
 
 
 BCH
 Bitcoin Cash
-
-
-$737.24
-
--3.43%
-
+$890.46
 
 
 LTC
 Litecoin
-
-
-$126.64
-
--3.08%
-
+$139.58
 
 
 EOS
 EOS
-
-
-$8.38
-
--6.86%
-
+$8.97
 
 
 ADA
 Cardano
-
-
-$0.199741
-
--5.68%
-
+$0.263654
 
 
 XLM
 Stellar
-
-
-$0.250355
-
--3.61%
-
+$0.356783
 
 
 NEO
 NEO
-
-
-$63.69
-
--3.08%
-
+$72.43
 
 
 MIOTA
 IOTA
-
-
-$1.38
-
--3.80%
-
+$1.68
 
 
 XMR
 Monero
-
-
-$190.99
-
--2.66%
-
-
-
-DASH
-Dash
-
-
-$356.64
-
--4.19%
-
+$228.16
 
 
 XEM
 NEM
+$0.371964
 
 
-$0.295515
-
--2.14%
-
+DASH
+Dash
+$416.47
 
 
 TRX
 TRON
-
-
-$0.040236
-
--0.83%
-
+$0.047251
 
 
 USDT
 Tether
-
-
-$1.00
-
-0.23%
-
+$0.999228
 
 
 VEN
 VeChain
+$3.59
 
 
-$3.27
-
--4.69%
-
-
- 
 ETC
 Ethereum Classic
-
-
-$16.04
-
--2.34%
-
-
-
-BNB
-Binance Coin
-
-
-$13.13
-
--2.52%
-
+$17.62
 
 
 QTUM
 Qtum
-
-
-$15.76
-
--5.48%
-
+$17.52
 
 
 OMG
 OmiseGO
+$15.01
 
 
-$13.41
-
--1.43%
-
-
-
-XVG
-Verge
-
-
-$0.086018
-
--10.18%
-
-
-
-LSK
-Lisk
-
-
-$9.92
-
--3.79%
-
-
-
-ONT
-Ontology
-
-
-$4.24
-
--7.67%
-
+BNB
+Binance Coin
+$12.22
 
 
 ICX
 ICON
+$3.20
 
 
-$2.53
-
--4.70%
-
-
-
-BTM
-Bytom
+LSK
+Lisk
+$11.31
 
 
- $0.846619
-
--18.08%
-
-
-
-ZEC
-Zcash
+ONT
+Ontology
+$4.26
 
 
-$222.94
-
--7.04%
-
-
-
-NANO
-Nano
-
-
-$5.90
-
--6.83%
-
+XVG
+Verge
+$0.066009
 
 
 BTG
 Bitcoin Gold
+$55.41
 
 
-$45.67
-
--3.42%
-
-
-
-STEEM
-Steem
+BTM
+Bytom
+$0.940369
 
 
-$2.57
-
--7.15%
-
-
-
-WAN
-Wanchain
-
-
-$5.67
-
--13.77%
-
-
-
-BCN
-Bytecoin
-
-
-$0.003225
-
--1.00%
-
+ZEC
+Zcash
+$247.41
 
 
 PPT
 Populous
+$23.62
 
 
-$15.64
+NANO
+Nano
+$6.34
 
--1.98%
 
+BCN
+Bytecoin
+$0.004458
+
+
+STEEM
+Steem
+$2.99
 
 
 SC
 Siacoin
+$0.019381
 
 
-$0.016842
-
-10.00%
-
-
-
-BTS
-BitShares
-
-
-$0.185681
-
--6.01%
-
-
-
-BTCP
-Bitcoin Private
-
-
-$23.48
-
--23.44%
-
-
-
-DGD
-DigixDAO
-
-
-$235.02
-
--4.06%
-
+WAN
+Wanchain
+$5.99
 
 
 DOGE
 Dogecoin
+$0.005434
 
 
-$0.004115
+BTS
+BitShares
+$0.227495
 
--3.05%
 
+BTCP
+Bitcoin Private
+$27.31
 
 
 STRAT
 Stratis
-
-
-$4.61
-
--5.05%
-
-
-
-MKR
-Maker
-
-
-$722.18
-
-0.75%
-
+$5.62
 
 
 WAVES
 Waves
+$4.99
 
 
-$4.45
-
--2.09%
-
-
-
-RHOC
-RChain
-
-
-$1.18
-
--1.06%
-
-
-
-DCR
-Decred
-
-
-$58.82
-
--4.23%
-
-
-
-BCD
-Bitcoin Diamond
-
-
-$2.72
-
--0.80%
-
-
-
-ZIL
-Zilliqa
-
-
-$0.055846
-
--2.33%
-
-
-
-AE
-Aeternity
-
-
-$1.71
-
--5.65%
-
-
-
-SNT
-Status
-
-
-$0.111852
-
--8.03%
-
+DGD
+DigixDAO
+$242.74
 
 
 ZRX
 0x
+$0.922996
 
 
-$0.728024
-
-1.01%
-
-
-
-KMD
-Komodo
+MKR
+Maker
+$775.66
 
 
-$3.46
-
-3.49%
-
-
-
-LRC
-Loopring
+ZIL
+Zilliqa
+$0.065802
 
 
-$0.626667
-
--1.82%
-
-
-
-GNT
-Golem
+SNT
+Status
+$0.131477
 
 
- $0.423302
-
--13.46%
-
-
-
-AION
-Aion
-
-
-$2.71
-
--7.42%
-
+DCR
+Decred
+$61.95
 
 
 REP
 Augur
+$39.42
 
 
-$29.63
-
-0.24%
-
-
-
-IOST
-IOStoken
+AE
+Aeternity
+$1.86
 
 
-$0.037753
-
-5.12%
-
-
-
-ARDR
-Ardor
+BCD
+Bitcoin Diamond
+$2.82
 
 
-$0.297592
-
--0.32%
-
-
-
-KCS
-KuCoin Shares
+RHOC
+RChain
+$1.18
 
 
-$3.19
-
--2.53%
-
-
-
-HSR
-Hshare
+KMD
+Komodo
+$3.99
 
 
-$6.62
-
--6.52%
-
-
-
-DGB
-DigiByte
+AION
+Aion
+$3.10
 
 
-$0.027909
-
--5.17%
-
-
-
-ARK
-Ark
-
-
-$2.68
-
-1.71%
-
+LRC
+Loopring
+$0.675355
 
 
 WTC
 Waltonchain
+$11.83
 
 
-$10.77
+GNT
+Golem
+$0.440958
 
--3.57%
 
+ARDR
+Ardor
+$0.360867
 
 
 BAT
 Basic Attenti...
+$0.356801
 
 
-$0.257604
-
-0.84%
-
-
-
-PIVX
-PIVX
-
-
-$4.47
-
--1.95%
-
-
-
-CNX
-Cryptonex
-
-
-$5.51
-
--2.40%
-
-
-
-ELF
-aelf
-
-
-$0.964231
-
--8.38%
-
-
-
-VERI
-Veritaseum
-
-
-$109.66
-
-3.05%
-
-
-
-QASH
-QASH
-
-
-$0.630379
-
--0.99%
-
-
-
-FCT
-Factom
-
-
-$25.16
-
--5.75%
-
-
-
-MONA
-MonaCoin
-
-
-$3.58
-
--5.38%
-
-
-
-DRGN
-Dragonchain
-
-
-$0.880986
-
--2.06%
-
-
-
-CENNZ
-Centrality
-
-
-$0.308551
-
-2.12%
-
-
-
-SUB
-Substratum
-
-
-$0.517446
-
--7.17%
-
-
-
-ETHOS
- Ethos
-
-
-$2.58
-
-3.72%
-
-
-
-FUN
-FunFair
-
-
-$0.041584
-
-5.86%
-
-
-
-SYS
-Syscoin
-
-
-$0.361157
-
-4.04%
-
-
-
-ELA
-Elastos
-
-
-$38.42
-
--5.44%
-
-
-
-GAS
-Gas
-
-
-$18.23
-
--4.02%
-
+DGB
+DigiByte
+$0.033884
 
 
 MITH
 Mithril
+$1.04
 
 
-$0.593333
-
--17.03%
-
-
-
-GXS
-GXChain
+IOST
+IOStoken
+$0.037069
 
 
-$2.94
-
--3.99%
-
-
-
-NAS
-Nebulas
+HSR
+Hshare
+$7.07
 
 
-$4.87
-
--15.78%
-
-
-
-KNC
-Kyber Network
+ARK
+Ark
+$2.96
 
 
-$1.28
-
--3.74%
-
-
-
-NCASH
-Nucleus Vision
+DRGN
+Dragonchain
+$1.19
 
 
-$0.041969
+KCS
+KuCoin Shares
+$3.09
 
--0.18%
 
+PIVX
+PIVX
+$4.98
+
+
+ELF
+aelf
+$1.10
+
+
+SUB
+Substratum
+$0.675550
+
+
+CENNZ
+Centrality
+$0.386047
+
+
+CNX
+Cryptonex
+$5.67
+
+
+FCT
+Factom
+$27.52
+
+
+NPXS
+Pundi X
+$0.004641
+
+
+QASH
+QASH
+$0.651085
+
+
+VERI
+Veritaseum
+$109.74
+
+
+SYS
+Syscoin
+$0.419365
+
+
+MONA
+MonaCoin
+$3.77
+
+
+GAS
+Gas
+$21.53
 
 
 RDD
 ReddCoin
+$0.007421
 
 
-$0.005806
-
-2.36%
-
-
-
-ETN
-Electroneum
- 
+WAX
+WAX
+$0.335460
 
 
-$0.024389
-
--4.84%
-
-
-
-GBYTE
-Byteball Bytes
+FUN
+FunFair
+$0.043319
 
 
-$249.44
-
-0.91%
-
-
-
-SALT
-SALT
-
-
-$2.80
-
-0.11%
-
+KNC
+Kyber Network
+$1.52
 
 
 NXT
 Nxt
+$0.200976
 
 
-$0.160361
-
--5.49%
-
-
-
-POWR
-Power Ledger
+ETHOS
+Ethos
+$2.62
 
 
-$0.413689
-
-2.23%
-
-
-
-XZC
-ZCoin
+SMART
+SmartCash
+$0.210714
 
 
-$32.73
+ELA
+Elastos
+$37.15
 
--2.90%
 
+NAS
+Nebulas
+$5.22
+
+
+SALT
+SALT
+$3.15
+
+
+GXS
+GXChain
+$2.99
 
 
 XIN
 Mixin
+$416.69
 
 
-$357.18
+XZC
+ZCoin
+$37.52
 
--8.15%
+
+GBYTE
+Byteball Bytes
+$264.70
 
 
+POWR
+Power Ledger
+$0.465833
 
- MAID
+
+DCN
+Dentacoin
+$0.000519
+
+
+MAID
 MaidSafeCoin
-
-
-$0.323879
-
--5.36%
-
-
-
-SKY
-Skycoin
-
-
-$18.27
-
--6.10%
-
-
-
-WAX
-WAX
-
-
-$0.231108
-
-2.67%
-
-
-
-STORM
-Storm
-
-
-$0.034914
-
--0.52%
-
+$0.361610
 
 
 R
 Revain
+$0.884210
 
 
-$0.772169
+NCASH
+Nucleus Vision
+$0.039742
 
--13.94%
 
+STORM
+Storm
+$0.038974
 
 
 LINK
 ChainLink
-
-
-$0.397691
-
--3.03%
-
-
-
-BNT
-Bancor
-
-
-$3.05
-
--1.79%
-
+$0.446584
 
 
 ENG
 Enigma
+$2.06
 
 
-$1.81
+EMC
+Emercoin
+$3.70
 
--2.25%
 
+ETN
+Electroneum
+$0.022669
+
+
+BNT
+Bancor
+$3.25
 
 
 REQ
 Request Network
-
-
- $0.203120
-
-0.40%
-
-
-
-PAY
-TenX
-
-
-$1.23
-
--0.82%
-
-
-
-NEBL
-Neblio
-
-
-$10.16
-
--2.06%
-
-
-
-ZEN
-ZenCash
- 
-
-
-$34.82
-
-9.94%
-
+$0.219109
